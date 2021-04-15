@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@300&display=swap');
+.carousel-item {
+    height: 100vh;
+    min-height: 350px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+            }
+    body{
+        background-color: #6e6e6e;
+        color:black;
+
+    }
+    .boxed{
+      border-radius: 25px;
+      background:rgb(196, 191, 191);
+      width: 1400px;
+      height: 300px;
+      padding: 50px;
+      border:none;
+      margin-left:auto;
+      margin-right:auto;
+    }
+    
+      
+    
+
+            .btn-preview {
+                font-family: Raleway-SemiBold;
+                font-size: 13px;
+                color: white(108, 88, 179, 0.75);
+                letter-spacing: 1px;
+                line-height: 15px;
+                text-emphasis-color: white;
+                border: 2px white;
+                border-radius: 40px;
+                background: grey;
+                transition: all 0.3s ease 0s;
+              }
+              
+              .btn-preview:hover {
+                color: grey;
+                background: black(108, 88, 179, 0.75);
+                border: 2px solid white(108, 89, 179, 0.75);
+
+              }
+
+        .advert-banner {
+          margin-left: -42px;
+        }
+
+        .footer {
+      text-emphasis-color: white;
+        }
