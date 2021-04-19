@@ -14,11 +14,11 @@
 
     }
     .boxed{
-      border-radius: 25px;
+      
       background:rgb(196, 191, 191);
       width: 1400px;
       height: 300px;
-      padding: 50px;
+      
       border:none;
       margin-left:auto;
       margin-right:auto;
